@@ -1,0 +1,27 @@
+Innspill til endringer i kjerneprogrammet ved neste LM 2017?
+Sendt til programbanden 13.03.2016
+
+Hovedtema: Kunnskap og kultur
+Undertema: Piratpartiet vil konkret
+
+* Kreve bruk av fri programvare i offentlig sektor dersom dette er mulig.
+
+Teksten endres til:
+* Kreve bruk av programvare som er lisensiert med fri eller åpenkildekode lisenser. (Eksempler: GPL, AGPL osv.)
+ 
+Begrunnelse:
+Påpeke at det er lisensieringen av kildekode som styrer om programvaren er fri og ikke det kompilerte produkt (binær koden).
+
+
+Hovedtema: Teknologi, innovasjon og vitenskap
+Undertema: Piratpartiet vil konkret
+
+* Data og programvare finansiert gjennom offentlige midler må være åpent og fritt tilgjengelig.
+* Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal være åpent og fritt tilgjengelig.  (Tekst fra LM16 - forslag 47 Nomedal) - dette gikk vel igjennom?
+
+Teksten endres til (Jeg antar at forslag 47 fra Nomedal ble stem igjennom og bruker den teksten som utgangspunkt):
+* Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal benytte seg av fri eller åpenkildekode lisenser, samt den modifiserte kildekoden må være tilgjengelig for offentligheten.
+
+Begrunnelse:
+Presisere at det ikke handler om det kompilerte program (binærkoden) -som i fritt tilgjengelig og åpent som i det "å nå" programmet, men lisensen kildekoden er styrt av.
+Presisere at modifisert kode må være tilgjengelig for innsyn, slik at et modifisert repository ikke ligger på tjenere som ikke noen har innsyn i.
